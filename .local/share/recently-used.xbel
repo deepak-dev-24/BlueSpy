@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/deepak/Desktop/deepak.txt" added="2025-03-28T18:11:38.498893Z" modified="2025-03-28T18:48:00.503592Z" visited="2025-03-28T18:11:38.498895Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T18:47:51.753734Z" count="3"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-28T18:48:00.503589Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/deepak/Desktop" added="2025-03-28T18:17:29.377751Z" modified="2025-03-28T19:03:40.419322Z" visited="2025-03-28T18:17:29.377753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:40.419318Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/deepak" added="2025-03-28T18:47:46.151558Z" modified="2025-03-28T19:03:41.753643Z" visited="2025-03-28T18:47:46.151560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:41.753638Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/deepak/Desktop/Apktool" added="2025-03-28T18:48:01.958000Z" modified="2025-03-28T18:48:01.958010Z" visited="2025-03-28T18:48:01.958002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T18:48:01.958005Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/deepak/BlueSpy" added="2025-03-28T18:48:21.618668Z" modified="2025-03-28T19:03:34.048398Z" visited="2025-03-28T18:48:21.618669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:34.048394Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/deepak/Documents" added="2025-03-28T19:03:19.897087Z" modified="2025-03-28T19:03:49.673329Z" visited="2025-03-28T19:03:19.897089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:49.673324Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/deepak/Downloads" added="2025-03-28T19:03:20.335623Z" modified="2025-03-28T19:03:46.670259Z" visited="2025-03-28T19:03:20.335625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:46.670255Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2025-03-28T19:03:34.837760Z" modified="2025-03-28T19:03:34.945450Z" visited="2025-03-28T19:03:34.837761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:34.945446Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="recent:///" added="2025-03-28T19:03:38.993773Z" modified="2025-03-28T19:03:38.993782Z" visited="2025-03-28T19:03:38.993775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-28T19:03:38.993777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,5 @@
+   atp update
+apt update
+atp upgrade
+apt upgrade
+ifconfig

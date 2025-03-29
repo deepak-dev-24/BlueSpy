@@ -1,0 +1,40 @@
+[05/19/2024 14:43:55] [e(0)] core: RuntimeError : apktool not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:228:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 15:39:15] [e(0)] core: ArgumentError : invalid payload: android/meterpreter/reverse/tcp
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:163:in `initialize'
+/usr/bin/msfvenom:476:in `new'
+/usr/bin/msfvenom:476:in `<main>'
+[05/19/2024 15:40:56] [e(0)] core: RuntimeError : apktool not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:228:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 15:46:27] [e(0)] core: RuntimeError : apktool version 2.7.0.pre.dirty not supported, please download at least version 2.7.0.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:245:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 16:05:44] [e(0)] core: RuntimeError : Invalid template: flappy_bird-v1-3.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 16:06:13] [e(0)] core: RuntimeError : apktool version 2.7.0.pre.dirty not supported, please download at least version 2.7.0.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:245:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 16:13:26] [e(0)] core: RuntimeError : apktool version 2.7.0.pre.dirty not supported, please download at least version 2.7.0.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:245:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 16:24:38] [e(0)] core: RuntimeError : apksigner not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:265:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 16:27:52] [e(0)] core: RuntimeError : Invalid template: flappy_bird-v1-3.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/19/2024 16:28:14] [e(0)] core: RuntimeError : apksigner not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:265:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
