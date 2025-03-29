@@ -1,4 +1,4 @@
-Xsession: X session started for deepak at Sat Mar 29 07:12:37 IST 2025
+Xsession: X session started for deepak at Sat Mar 29 07:20:18 IST 2025
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting DISPLAY=:0
 dbus-update-activation-environment: setting XAUTHORITY=/home/deepak/.Xauthority
@@ -36,34 +36,30 @@ dbus-update-activation-environment: setting PWD=/home/deepak
 dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
 /usr/bin/x-session-manager: X server already running on display :0
 /usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
-xfce4-session-Message: 07:12:37.773: SSH authentication agent is already running
+xfce4-session-Message: 07:20:19.089: SSH authentication agent is already running
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-(xfwm4:1229): xfwm4-WARNING **: 07:12:40.718: Unsupported GL renderer (llvmpipe (LLVM 16.0.6, 256 bits)).
+(xfwm4:1101): xfwm4-WARNING **: 07:20:22.479: Unsupported GL renderer (llvmpipe (LLVM 16.0.6, 256 bits)).
 
-** (wrapper-2.0:1304): WARNING **: 07:12:42.744: No outputs have backlight property
+** (wrapper-2.0:1172): WARNING **: 07:20:24.879: No outputs have backlight property
 Xfce power manager is not running
-
-(xfce4-power-manager:1405): xfce4-power-manager-WARNING **: 07:12:43.508: could not map keysym 1008ffa8 to keycode
-
-
-** (xfce4-power-manager:1405): WARNING **: 07:12:43.537: No outputs have backlight property
 Failure: No such entity
 
-(xfce4-power-manager:1405): xfce4-power-manager-WARNING **: 07:12:43.610: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+(xfce4-power-manager:1261): xfce4-power-manager-WARNING **: 07:20:26.096: could not map keysym 1008ffa8 to keycode
 
-(polkit-mate-authentication-agent-1:1459): GLib-CRITICAL **: 07:12:44.024: g_variant_new_string: assertion 'string != NULL' failed
 
-(polkit-mate-authentication-agent-1:1459): polkit-mate-1-WARNING **: 07:12:44.026: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+** (xfce4-power-manager:1261): WARNING **: 07:20:26.131: No outputs have backlight property
+
+(xfce4-power-manager:1261): xfce4-power-manager-WARNING **: 07:20:26.187: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+(polkit-mate-authentication-agent-1:1322): GLib-CRITICAL **: 07:20:26.446: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1322): polkit-mate-1-WARNING **: 07:20:26.448: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 Xfce Power Manager: Another power manager is already running
 
-** (xiccd:1490): WARNING **: 07:12:44.630: EDID is empty
+** (xiccd:1352): WARNING **: 07:20:27.069: EDID is empty
 
-(vmware-user:1474): Gtk-WARNING **: 07:12:45.027: gtk_disable_setlocale() must be called before gtk_init()
-blueman-applet 07.12.45 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
-blueman-applet 07.12.46 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
-blueman-applet 07.12.46 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
-
-** (xiccd:1490): WARNING **: 07:12:51.289: EDID is empty
-
-** (xiccd:1490): WARNING **: 07:12:51.297: EDID is empty
+(vmware-user:1347): Gtk-WARNING **: 07:20:27.620: gtk_disable_setlocale() must be called before gtk_init()
+blueman-applet 07.20.28 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 07.20.29 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 07.20.29 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
